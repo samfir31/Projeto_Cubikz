@@ -1,0 +1,588 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Beta 2.0\bin\Debug\Beta 2.0.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Beta 2.0\bin\Debug\Beta 2.0.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\bin\Debug\Beta 2.0.exe
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\bin\Debug\Beta 2.0.pdb
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Marcus\Desktop\²³¹\Pasta impossível de acessar\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+C:\Users\Marcus\Desktop\²³¹\Pasta impossível de acessar\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+C:\Users\Marcus\Desktop\²³¹\Pasta impossível de acessar\Beta 2.0\Beta 2.0\bin\Debug\Beta 2.0.exe
+C:\Users\Marcus\Desktop\²³¹\Pasta impossível de acessar\Beta 2.0\Beta 2.0\bin\Debug\Beta 2.0.pdb
+C:\Users\Marcus\Desktop\²³¹\Pasta impossível de acessar\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+C:\Users\Marcus\Desktop\²³¹\Pasta impossível de acessar\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+C:\Users\Marcus\Desktop\²³¹\Pasta impossível de acessar\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+C:\Users\Marcus\Desktop\²³¹\Pasta impossível de acessar\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+C:\Users\Marcus\Desktop\²³¹\Pasta impossível de acessar\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Marcus\Desktop\²³¹\Pasta impossível de acessar\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+C:\Users\Marcus\Desktop\²³¹\Pasta impossível de acessar\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+C:\Users\Marcus\Desktop\²³¹\Pasta impossível de acessar\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+C:\Users\Marcus\Desktop\²³¹\Pasta impossível de acessar\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+C:\Users\Aluno_2\Desktop\Beta 2.0\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.exe
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.pdb
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.exe
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.pdb
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+C:\Users\Familia\Desktop\tcc\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.exe
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.pdb
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+E:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.exe
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.pdb
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+G:\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.exe
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.pdb
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+C:\Users\Aluno_2\Desktop\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.exe
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.pdb
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.exe
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.pdb
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\11 09 2017\Beta-2.0-2\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.exe
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.pdb
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+C:\Users\Aluno_2\Downloads\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.exe
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.pdb
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.application
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+C:\Users\Aluno_2\Documents\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+C:\Users\Aluno_2\Documents\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+G:\TCC\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+G:\TCC\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.application
+G:\TCC\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.exe
+G:\TCC\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.pdb
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+G:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+E:\TCC\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+E:\TCC\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.application
+E:\TCC\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.exe
+E:\TCC\Beta 2.0 2\Beta 2.0\bin\Debug\Beta 2.0.pdb
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+E:\TCC\Beta 2.0 2\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\bin\Debug\Beta 2.0.application
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\bin\Debug\Beta 2.0.exe
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\bin\Debug\Beta 2.0.pdb
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+C:\Users\Familia\Desktop\ESse Aqui\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao2.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+G:\13-11\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+G:\13-11\Beta 2.0\bin\Debug\Beta 2.0.application
+G:\13-11\Beta 2.0\bin\Debug\Beta 2.0.exe
+G:\13-11\Beta 2.0\bin\Debug\Beta 2.0.pdb
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao2.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+G:\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+E:\13-11\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+E:\13-11\Beta 2.0\bin\Debug\Beta 2.0.application
+E:\13-11\Beta 2.0\bin\Debug\Beta 2.0.exe
+E:\13-11\Beta 2.0\bin\Debug\Beta 2.0.pdb
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao2.resources
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+E:\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\bin\Debug\Beta 2.0.application
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\bin\Debug\Beta 2.0.exe
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\bin\Debug\Beta 2.0.pdb
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao2.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\bin\Debug\Beta 2.0.application
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\bin\Debug\Beta 2.0.exe
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\bin\Debug\Beta 2.0.pdb
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao2.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\bin\Debug\Beta 2.0.application
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\bin\Debug\Beta 2.0.exe
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\bin\Debug\Beta 2.0.pdb
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao2.resources
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+C:\Users\Aluno_2\Desktop\13-11\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+D:\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+D:\Designer\Beta 2.0\bin\Debug\Beta 2.0.application
+D:\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe
+D:\Designer\Beta 2.0\bin\Debug\Beta 2.0.pdb
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao2.resources
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+D:\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\bin\Debug\Beta 2.0.application
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\bin\Debug\Beta 2.0.pdb
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao2.resources
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+C:\Users\Familia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\bin\Debug\Beta 2.0.application
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\bin\Debug\Beta 2.0.pdb
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao2.resources
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+C:\Users\Bia\Desktop\Designer\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\bin\Debug\Beta 2.0.application
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\bin\Debug\Beta 2.0.pdb
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao2.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\bin\Debug\Beta 2.0.application
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\bin\Debug\Beta 2.0.pdb
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao2.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+G:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\29 do 11\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\bin\Debug\Beta 2.0.application
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\bin\Debug\Beta 2.0.pdb
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao2.resources
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+C:\Users\Familia\Downloads\04-12\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\bin\Debug\Beta 2.0.application
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\bin\Debug\Beta 2.0.pdb
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao2.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+K:\Etec - 3IIB - Nathan Reis Brasil\3º Ano\TCC\Evolucoes do Programa\04-12---\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.application
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.pdb
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe.manifest
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\bin\Debug\Beta 2.0.application
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\bin\Debug\Beta 2.0.exe
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\bin\Debug\Beta 2.0.pdb
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao.resources
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Alocacao2.resources
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.BancoProduto.resources
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroCam.resources
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.CadastroProd.resources
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calcular_frete.resources
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Calculo.resources
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Combustivel.resources
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Cubagem.resources
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Form1.resources
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Mapa.resources
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Properties.Resources.resources
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.SelecionarProduto.resources
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta_2._0.Selecionar_caminhao.resources
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.exe.manifest
+C:\Users\Familia\Downloads\04-12-23h40m\Designer\Beta 2.0\obj\x86\Debug\Beta 2.0.application

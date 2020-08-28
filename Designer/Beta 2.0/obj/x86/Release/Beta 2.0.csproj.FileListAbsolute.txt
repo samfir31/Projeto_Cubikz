@@ -1,0 +1,24 @@
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta_2._0.Alocacao.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta_2._0.BancoProduto.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta_2._0.CadastroCam.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta_2._0.CadastroProd.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta_2._0.Calcular_frete.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta_2._0.Calculo.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta_2._0.Combustivel.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta_2._0.Cubagem.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta_2._0.Form1.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta_2._0.Mapa.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta_2._0.Properties.Resources.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta_2._0.SelecionarProduto.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta_2._0.Selecionar_caminhao.resources
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta 2.0.csproj.GenerateResource.Cache
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\bin\Release\Beta 2.0.exe.manifest
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\bin\Release\Beta 2.0.application
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\bin\Release\Beta 2.0.exe
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\bin\Release\Beta 2.0.pdb
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta 2.0.exe.manifest
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta 2.0.application
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta 2.0.exe
+C:\Users\Familia\Downloads\Beta 2.0 2-20171002T200356Z-001\Beta 2.0 2\Beta 2.0\obj\x86\Release\Beta 2.0.pdb
